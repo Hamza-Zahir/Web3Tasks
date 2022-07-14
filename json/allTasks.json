@@ -50,5 +50,31 @@
       "websit": "https://stellular-chimera-9580c8.netlify.app/"
     },
     "done": true
+  },
+  {
+    "id": 5,
+    "title": "Web3Modal",
+    "OriginalProjects": {
+      "sourceCode": "",
+      "tutorial": "https://www.youtube.com/watch?app=desktop&v=L65gP0cGC30"
+    },
+    "myResults": {
+      "sourceGithub": "https://github.com/Hamza-Zahir/test_Web3Modal",
+      "websit": "https://curious-starship-775fd8.netlify.app/"
+    },
+    "done": true
+  },
+  {
+    "id": 6,
+    "title": "Donation DApp",
+    "OriginalProjects": {
+      "sourceCode": "",
+      "tutorial": "https://learn.figment.io/tutorials/create-a-donation-dapp-on-polygon"
+    },
+    "myResults": {
+      "sourceGithub": "https://github.com/Hamza-Zahir/5_donation_dapp",
+      "websit": "https://celadon-chebakia-896521.netlify.app/"
+    },
+    "done": true
   }
 ]
