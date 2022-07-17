@@ -76,5 +76,19 @@
       "websit": "https://celadon-chebakia-896521.netlify.app/"
     },
     "done": true
+  },
+   {
+    "id": 7,
+    "title": "token sale DApp",
+    "OriginalProjects": {
+      "sourceCode": "https://github.com/dappuniversity/token_sale",
+      "tutorial": "https://www.youtube.com/watch?v=XdKv5uwEk5A&t=218s"
+    },
+    "myResults": {
+      "sourceGithub": "https://github.com/Hamza-Zahir/7_Cryptocurrency",
+      "websit": "https://sensational-mermaid-3ae6a2.netlify.app/"
+    },
+    "done": true
   }
+  
 ]
