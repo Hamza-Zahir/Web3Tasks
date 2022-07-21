@@ -89,6 +89,19 @@
       "websit": "https://sensational-mermaid-3ae6a2.netlify.app/"
     },
     "done": true
+  },
+    {
+    "id": 8,
+    "title": "Full Web3 Mint Website",
+    "OriginalProjects": {
+      "sourceCode": "",
+      "tutorial": "https://www.youtube.com/watch?v=ynFNLBP2TPs&t=1077s"
+    },
+    "myResults": {
+      "sourceGithub": "https://github.com/Hamza-Zahir/8_mint_website",
+      "websit": "https://polite-bublanina-0aeee6.netlify.app/"
+    },
+    "done": true
   }
   
 ]
