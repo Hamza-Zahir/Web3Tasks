@@ -105,6 +105,19 @@
   },
   {
     "id": 9,
+    "title": "pancakeswap",
+    "OriginalProjects": {
+      "sourceCode": "",
+      "tutorial": "https://pancakeswap.finance/swap"
+    },
+    "myResults": {
+      "sourceGithub": "https://github.com/Hamza-Zahir/uniswap_pancakeswap",
+      "websit": "https://amazing-starship-088b9e.netlify.app/"
+    },
+    "done": true
+  },
+  {
+    "id": 10,
     "title": "Amazon web3",
     "OriginalProjects": {
       "sourceCode": "https://github.com/IAmJaysWay/amazon-clone-full",
@@ -114,10 +127,11 @@
       "sourceGithub": "https://github.com/Hamza-Zahir/Amazon-Web3",
       "websit": "https://profound-moxie-fe409b.netlify.app/"
     },
-    "done": true
+    "done": true,
+    "advanced": true
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Krypt-Dapp",
     "OriginalProjects": {
       "sourceCode": "https://github.com/adrianhajdin/project_web3.0",
@@ -128,5 +142,21 @@
       "websit": "https://ephemeral-brigadeiros-3a98d2.netlify.app/"
     },
     "done": true
+  },
+  {
+    "id": 12,
+    "title": "Youtube Web3",
+    "OriginalProjects": {
+      "sourceCode": "https://github.com/dappuniversity/dvideo",
+      "tutorial": "https://www.youtube.com/watch?v=OLsteD3xkPQ"
+    },
+    "myResults": {
+      "sourceGithub": "https://github.com/Hamza-Zahir/Youtube_web3",
+      "websit": "https://playful-granita-ab1d17.netlify.app/"
+    },
+    "done": true,
+    "advanced": true
   }
+
+
 ]

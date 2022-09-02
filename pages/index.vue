@@ -1,5 +1,5 @@
 <template>
-  <TasksList/>
+  <Web3Projects/>
 </template>
 
 <script>
